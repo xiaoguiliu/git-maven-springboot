@@ -14,6 +14,7 @@ public class GitMavenSpringbootApplication {
         System.out.println("master制造冲突分支");
 
         System.out.println("dev分支制造冲突代码");
+        System.out.println("远程仓库修改文件");
 
     }
 
