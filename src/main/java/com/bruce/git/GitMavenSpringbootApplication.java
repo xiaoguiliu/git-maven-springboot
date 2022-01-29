@@ -10,6 +10,8 @@ public class GitMavenSpringbootApplication {
         SpringApplication.run(GitMavenSpringbootApplication.class, args);
         System.out.println("提交第一版");
         System.out.println("提交第二版");
+        System.out.println("创建dev分支");
+
     }
 
 }
