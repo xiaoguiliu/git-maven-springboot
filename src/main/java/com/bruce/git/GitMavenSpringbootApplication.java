@@ -13,6 +13,7 @@ public class GitMavenSpringbootApplication {
         System.out.println("创建dev分支");
         System.out.println("master制造冲突分支");
 
+        System.out.println("dev分支制造冲突代码");
 
     }
 
