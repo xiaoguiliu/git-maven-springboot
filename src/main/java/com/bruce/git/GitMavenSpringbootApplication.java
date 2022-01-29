@@ -8,6 +8,7 @@ public class GitMavenSpringbootApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(GitMavenSpringbootApplication.class, args);
+        System.out.println("提交第一版");
     }
 
 }
