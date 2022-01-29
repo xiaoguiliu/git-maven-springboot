@@ -11,6 +11,8 @@ public class GitMavenSpringbootApplication {
         System.out.println("提交第一版");
         System.out.println("提交第二版");
         System.out.println("创建dev分支");
+        System.out.println("master制造冲突分支");
+
 
     }
 
